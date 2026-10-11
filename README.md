@@ -2,7 +2,7 @@
 
 **See what's on TV tonight, browse 70,000+ shows, and keep a watchlist with next-episode countdowns.**
 
-Live: https://airtime-rahul.vercel.app
+Live: https://airtime-six.vercel.app
 
 Airtime started as a Netflix-style clone I built while learning HTML and CSS. This version is a real app on real data: every show, episode and schedule comes live from the [TVmaze API](https://www.tvmaze.com/api).
 
